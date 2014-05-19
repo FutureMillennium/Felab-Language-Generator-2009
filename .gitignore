@@ -1,0 +1,5 @@
+*.suo
+obj
+*.vshost.exe.manifest
+*.pdb
+*.vshost.exe

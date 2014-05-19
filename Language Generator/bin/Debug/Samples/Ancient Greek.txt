@@ -1,0 +1,143 @@
+C
+b 2
+g 3
+d 4
+z
+th 3
+k 4
+l 5
+m 5
+n 6
+ch 3
+x
+p 5
+r 6
+s 8
+t 5
+ph 3
+ps
+
+V
+a 10
+á 2
+e 8
+é 6
+i 6
+í 2
+o 12
+w 6
+u 2
+ú 2
+ai 3
+ei 3
+oi
+au
+eu
+eu
+ou 2
+
+F
+á
+os 6
+ion
+on
+é 4
+ia 2
+ei
+w
+és
+ás
+ios 2
+omai
+iwn
+is
+omi 2
+omai
+
+B
+ng
+lph
+thl
+sth
+sch
+rt
+ndr
+nthr
+nt
+thn
+kt
+rg
+st 4
+sp
+kn
+rch
+rx
+phr
+rb
+lt
+gn
+sk
+sk
+sk
+xp
+tt
+nch
+lp
+mp 2
+nn 3
+ll 4
+mm 3
+rm
+rch
+chth
+tr
+pp
+rd
+mb
+nth
+
+I
+kr
+bl
+h
+gr
+kl
+pl 2
+pr
+st
+sph
+tr
+phth
+chr
+kl
+chr
+
+VCVCF
+VCVBF
+VBVCF
+CVCF 2
+CVBF 2
+CVF
+CV
+CVCVCF
+CVCVBF
+CVBVCF
+IVCF
+IVCF
+IVBF
+IVCVCF
+IVCVBF
+IVBVCF
+IVF
+CVF
+VCF
+VCF
+VBVF
+VBF
+VCF
+CVCF
+CVCVF
+CVCF
+VCF
+VCF
+VCVCF

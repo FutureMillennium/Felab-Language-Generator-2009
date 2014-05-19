@@ -1,0 +1,21 @@
+V
+a 3
+e 2
+i
+o
+u
+y
+
+C
+b 5
+f 3
+l 2
+m
+p
+s
+v
+z
+
+CV 2
+CVC
+VCV
